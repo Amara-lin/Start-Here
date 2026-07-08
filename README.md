@@ -1,4 +1,4 @@
-Hello there! This is Amara. < sub> Welcome to my world of design!</sub>
+Hello there! This is Amara. <sub> Welcome to my world of design!</sub>
 --
 About me: 
 --
