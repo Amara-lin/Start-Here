@@ -9,12 +9,11 @@ About me:
 
 What I'm up to!
 ---
-❣️ building a portfolio site lol  
 ❣️ Analyzing Data for U+ Education  
 
 Connect with me
 ---
-[LinkedIn](www.linkedin.com/in/amarachioriaku)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/amarachioriaku) 
 
 
 
